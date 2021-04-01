@@ -12,6 +12,10 @@ Scripts gerados nas aulas ao longo da jornada de aprendizado
 * [Regressão Linear: Técnicas Avançadas de Modelagem](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb))
 * [Introdução à experimentação: Análise de experimentos](https://cursos.alura.com.br/course/analise-de-experimentos)
 
+### [Formação Python para Data Science](https://cursos.alura.com.br/formacao-python-data-science)
+* [Python para Data Science: Primeiros passos](https://cursos.alura.com.br/course/python-intro)
+* [Python para Data Science: Introdução à linguagem e Numpy](https://cursos.alura.com.br/course/python-tipos-listas-numpy)
+
 
 ### [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)
 * [Data Science: Primeiros passos](https://cursos.alura.com.br/course/data-science-primeiros-passos) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Introdu%C3%A7%C3%A3o_a_Data_Science.ipynb))
