@@ -15,7 +15,13 @@ Scripts gerados nas aulas ao longo da jornada de aprendizado
 ### [Formação Python para Data Science](https://cursos.alura.com.br/formacao-python-data-science)
 * [Python para Data Science: Primeiros passos](https://cursos.alura.com.br/course/python-intro)
 * [Python para Data Science: Introdução à linguagem e Numpy](https://cursos.alura.com.br/course/python-tipos-listas-numpy)
-
+* [Python para Data Science: Funções, Pacotes e Pandas básico](https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas)
+* [Python Pandas: Tratando e analisando dados](https://cursos.alura.com.br/course/introducao-python-pandas)
+* [Pandas: Formatos diferentes de entrada e saída (IO)](https://cursos.alura.com.br/course/pandas-io) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Pandas_IO.ipynb))
+* [Data Visualization: Explorando com Seaborn](https://cursos.alura.com.br/course/data-visualization-com-seaborn)
+* [Data Science: Introdução a análise de series temporais](https://cursos.alura.com.br/course/data-science-series-temporais) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Time_Series.ipynb))
+* [Corretor Ortográfico em Python: Aplicando técnicas de NLP](https://cursos.alura.com.br/course/nlp-corretor-ortografico) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Corretor.ipynb))
+* [Scraping com Python: Coleta de dados na web](https://cursos.alura.com.br/course/web-scraping-data-science-python) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Web_Scraping.ipynb))
 
 ### [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)
 * [Data Science: Primeiros passos](https://cursos.alura.com.br/course/data-science-primeiros-passos) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Introdu%C3%A7%C3%A3o_a_Data_Science.ipynb))
