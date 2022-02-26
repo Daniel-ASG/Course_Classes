@@ -30,5 +30,9 @@ Scripts generated in classes throughout the learning journey
 * [Estatística com Python parte 2: Probabilidade e Amostragem](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Curso_de_Estat%C3%ADstica_Parte_2.ipynb))
 * [Regressão Linear: Testando Relações e Prevendo Resultados](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_Testando_Rela%C3%A7%C3%B5es_e_Prevendo_Resultados.ipynb))
 * [Regressão Linear: Técnicas Avançadas de Modelagem](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb)) 
+* [Data Visualization parte 1: introdução ao design de gráficos](https://cursos.alura.com.br/course/data-visualization) 
+* [Data Visualization parte 2: Escolhendo o melhor gráfico](https://cursos.alura.com.br/course/data-visualization-escolhendo-melhor-grafico)
+* [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb))
+
 
 * ...
