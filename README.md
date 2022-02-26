@@ -1,7 +1,7 @@
-# Aulas_de_cursos
-Scripts gerados nas aulas ao longo da jornada de aprendizado
+# Class scripts
+Scripts generated in classes throughout the learning journey
 
-## Cursos da Alura
+## Alura's courses
 ### [Formação Estatística com Python](https://cursos.alura.com.br/formacao-estatistica-python)
 * [Estatística com Python parte 1: Frequências e Medidas](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Curso_de_Estat%C3%ADstica_Parte_1.ipynb))
 * [Estatística com Python parte 2: Probabilidade e Amostragem](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Curso_de_Estat%C3%ADstica_Parte_2.ipynb))
