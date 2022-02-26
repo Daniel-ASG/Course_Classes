@@ -10,7 +10,7 @@ Scripts generated in classes throughout the learning journey
 * [Estatística com Python parte 4: Correlação e Regressão](https://cursos.alura.com.br/course/estatistica-correlacao-regressao) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Curso_de_Estat%C3%ADstica_Parte_4.ipynb))
 * [Regressão Linear: Testando Relações e Prevendo Resultados](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_Testando_Rela%C3%A7%C3%B5es_e_Prevendo_Resultados.ipynb))
 * [Regressão Linear: Técnicas Avançadas de Modelagem](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb))
-* [Introdução à experimentação: Análise de experimentos](https://cursos.alura.com.br/course/analise-de-experimentos)
+* [Introdução à experimentação: Análise de experimentos](https://cursos.alura.com.br/course/analise-de-experimentos) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/Planejamento_experimentos_aula.ipynb))
 
 ### [Formação Python para Data Science](https://cursos.alura.com.br/formacao-python-data-science)
 * [Python para Data Science: Primeiros passos](https://cursos.alura.com.br/course/python-intro)
@@ -32,7 +32,8 @@ Scripts generated in classes throughout the learning journey
 * [Regressão Linear: Técnicas Avançadas de Modelagem](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb)) 
 * [Data Visualization parte 1: introdução ao design de gráficos](https://cursos.alura.com.br/course/data-visualization) 
 * [Data Visualization parte 2: Escolhendo o melhor gráfico](https://cursos.alura.com.br/course/data-visualization-escolhendo-melhor-grafico)
-* [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot) ([Script da aula](https://github.com/Daniel-ASG/Aulas_de_cursos/blob/main/Regress%C3%A3o_Linear_T%C3%A9cnicas_avan%C3%A7adas_de_Modelagem.ipynb))
-
-
-* ...
+* [Data Visualization: criação de gráficos com o Matplotlib](https://cursos.alura.com.br/course/customizacao-matplot) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/Data_Visualization_cria%C3%A7%C3%A3o_de_gr%C3%A1ficos_com_o_Matplotlib.ipynb))
+* [Data Science: Introdução a testes estatísticos com Python](https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/data_science_introducao_a_testes_estatisticos_com_python.ipynb))
+* [Introdução à experimentação: Análise de experimentos](https://cursos.alura.com.br/course/analise-de-experimentos) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/Planejamento_experimentos_aula.ipynb))
+* [Data Science: análises para saúde e medicina](https://cursos.alura.com.br/course/data-science-saude-e-medicina) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/Data_Science_an%C3%A1lises_para_sa%C3%BAde_e_medicina.ipynb))
+* [Data Science: visualização de dados para saúde e medicina](https://cursos.alura.com.br/course/data-science-visualizacao-saude-e-medicina) ([Script da aula](https://github.com/Daniel-ASG/Course_Classes/blob/main/Data_Science_an%C3%A1lises_para_sa%C3%BAde_e_medicina.ipynb))
